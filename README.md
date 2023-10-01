@@ -13,7 +13,7 @@ The main **goal of this project** is to uncover business insights from the data 
 
 ## Relational Schema of the Database
 
-The relational schema of the database can be found [here]. The database consists of 11 tables which includes information like artists, songs, albums, employees, etc.
+The relational schema of the database can be found [here](https://github.com/vishallb/Finding-The-Groove-Using-SQL/blob/main/relationchart.png). The database consists of 11 tables which includes information like artists, songs, albums, employees, etc.
 
 ## Tool Used
 
